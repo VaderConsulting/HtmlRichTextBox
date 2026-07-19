@@ -1,4 +1,6 @@
-﻿# HtmlRichTextBox
+﻿> **Attribution notice:** This code is not original work by VaderConsulting. It is believed to be a third-party control originally published on [CodeProject](https://www.codeproject.com) circa 2005. The original author has not been confirmed. See [LICENSE](LICENSE) for details.
+
+# HtmlRichTextBox
 
 A Windows Forms `RichTextBox` control exposing fine-grained rich-text formatting via Win32 CHARFORMAT/PARAFORMAT structures and providing an `HtmlText` property for reading and writing HTML-formatted content.
 

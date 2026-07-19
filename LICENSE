@@ -1,21 +1,17 @@
-﻿MIT License
+﻿PROVENANCE NOTICE
+=================
 
-Copyright (c) 2026 VaderConsulting
+The code in this repository was NOT written by the repository owner (VaderConsulting)
+and is NOT claimed as original work.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This is a preservation copy of a Windows Forms HtmlRichTextBox control, originally
+authored by an unknown third party and believed to have been published on CodeProject
+(https://www.codeproject.com) circa 2005 under a permissive open-source licence
+(likely the CodeProject Open Licence, CPOL).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The original author and exact source article have not been confirmed. If you are the
+original author, or can identify the original source, please open an issue so that
+proper attribution can be added.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+No copyright is claimed over this code by VaderConsulting. All rights remain with
+the original author.
