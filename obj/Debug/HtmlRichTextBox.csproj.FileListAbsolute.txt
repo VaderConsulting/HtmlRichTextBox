@@ -1,0 +1,20 @@
+C:\Users\dave.ROBINSON\Desktop\Android Documentation\HTMLRichTextBox\HtmlRichTextBox\bin\Debug\HtmlRichTextBox.dll
+C:\Users\dave.ROBINSON\Desktop\Android Documentation\HTMLRichTextBox\HtmlRichTextBox\bin\Debug\HtmlRichTextBox.pdb
+C:\Users\dave.ROBINSON\Desktop\Android Documentation\HTMLRichTextBox\HtmlRichTextBox\obj\Debug\HtmlRichText.HtmlRichTextBox.resources
+C:\Users\dave.ROBINSON\Desktop\Android Documentation\HTMLRichTextBox\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.csproj.GenerateResource.Cache
+C:\Users\dave.ROBINSON\Desktop\Android Documentation\HTMLRichTextBox\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.dll
+C:\Users\dave.ROBINSON\Desktop\Android Documentation\HTMLRichTextBox\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.pdb
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\B4A_2\HtmlRichTextBox\bin\Debug\HtmlRichTextBox.dll
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\B4A_2\HtmlRichTextBox\bin\Debug\HtmlRichTextBox.pdb
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\B4A_2\HtmlRichTextBox\obj\Debug\HtmlRichText.HtmlRichTextBox.resources
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\B4A_2\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.csproj.GenerateResource.Cache
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\B4A_2\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.dll
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\B4A_2\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.pdb
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\B4A_2\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.csprojResolveAssemblyReference.cache
+\\srsvr001\infoserv\Architecture\Disaster Recovery\Dev\Working folder\DR Tool\1.1\DR Planning Tool\HtmlRichTextBox\bin\Debug\HtmlRichTextBox.dll
+\\srsvr001\infoserv\Architecture\Disaster Recovery\Dev\Working folder\DR Tool\1.1\DR Planning Tool\HtmlRichTextBox\bin\Debug\HtmlRichTextBox.pdb
+\\srsvr001\infoserv\Architecture\Disaster Recovery\Dev\Working folder\DR Tool\1.1\DR Planning Tool\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.csprojResolveAssemblyReference.cache
+\\srsvr001\infoserv\Architecture\Disaster Recovery\Dev\Working folder\DR Tool\1.1\DR Planning Tool\HtmlRichTextBox\obj\Debug\HtmlRichText.HtmlRichTextBox.resources
+\\srsvr001\infoserv\Architecture\Disaster Recovery\Dev\Working folder\DR Tool\1.1\DR Planning Tool\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.csproj.GenerateResource.Cache
+\\srsvr001\infoserv\Architecture\Disaster Recovery\Dev\Working folder\DR Tool\1.1\DR Planning Tool\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.dll
+\\srsvr001\infoserv\Architecture\Disaster Recovery\Dev\Working folder\DR Tool\1.1\DR Planning Tool\HtmlRichTextBox\obj\Debug\HtmlRichTextBox.pdb

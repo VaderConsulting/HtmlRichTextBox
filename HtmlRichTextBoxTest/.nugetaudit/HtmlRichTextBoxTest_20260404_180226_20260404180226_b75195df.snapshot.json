@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260404180226_b75195df",
+  "CapturedUtc": "2026-04-04T18:02:26.0816267+00:00",
+  "NormalisedContentHash": "F8C80DEB3E1EE8B3390A9E047CCBEC16871CA70EF5D85F62DFB60256EEC0F79A",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "HtmlRichTextBoxTest",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\HtmlRichTextBoxTest\\HtmlRichTextBoxTest.csproj",
+    "SolutionKey": "222577DE514EB2B5",
+    "SourceIdentity": {
+      "IdentityKey": "222577DE514EB2B5",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\HtmlRichTextBoxTest\\HtmlRichTextBoxTest.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\HtmlRichTextBoxTest",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "64CA5E84E5BEB692",
+      "ProjectName": "HtmlRichTextBoxTest",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\HtmlRichTextBoxTest\\HtmlRichTextBoxTest.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}

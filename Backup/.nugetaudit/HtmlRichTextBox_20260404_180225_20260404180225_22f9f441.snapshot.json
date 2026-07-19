@@ -1,0 +1,59 @@
+{
+  "SnapshotId": "20260404180225_22f9f441",
+  "CapturedUtc": "2026-04-04T18:02:25.1693254+00:00",
+  "NormalisedContentHash": "7A13A70FE12A09233DB8C2329F07895C8332A789DDD605D2E926AEA107ED78FA",
+  "AnalysisStatus": "Partial",
+  "Solution": {
+    "SolutionName": "HtmlRichTextBox",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\Backup\\HtmlRichTextBox.sln",
+    "SolutionKey": "09A26329BB8EC458",
+    "SourceIdentity": {
+      "IdentityKey": "09A26329BB8EC458",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\Backup\\HtmlRichTextBox.sln",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\Backup",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "C2E9A2549A98DE76",
+      "ProjectName": "{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\u0022) = \u0022HtmlRichTextBoxTest",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\Backup\\HtmlRichTextBoxTest\\HtmlRichTextBoxTest.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Partial",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": [
+        "Unsupported or unknown project package management style."
+      ]
+    },
+    {
+      "ProjectId": "85114EB8BC9FF506",
+      "ProjectName": "{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}\u0022) = \u0022HtmlRichTextBox",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\HtmlRichTextBox\\Backup\\HtmlRichTextBox\\HtmlRichTextBox.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Partial",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": [
+        "Unsupported or unknown project package management style."
+      ]
+    }
+  ],
+  "Warnings": [
+    "Unsupported or unknown project package management style."
+  ]
+}

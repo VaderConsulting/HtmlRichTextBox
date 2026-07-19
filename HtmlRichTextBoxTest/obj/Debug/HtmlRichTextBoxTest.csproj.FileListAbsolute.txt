@@ -1,0 +1,9 @@
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\bin\Debug\HtmlRichTextBoxTest.exe
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\bin\Debug\HtmlRichTextBoxTest.pdb
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\bin\Debug\HtmlRichTextBox.dll
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\bin\Debug\HtmlRichTextBox.pdb
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\obj\Debug\HtmlRichTextBoxTest.csprojResolveAssemblyReference.cache
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\obj\Debug\HtmlRichTextBoxTest.Form1.resources
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\obj\Debug\HtmlRichTextBoxTest.csproj.GenerateResource.Cache
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\obj\Debug\HtmlRichTextBoxTest.exe
+C:\Users\dave.ROBINSON\Documents\Visual Studio 11\Projects\HTMLRichTextBox\HtmlRichTextBoxTest\obj\Debug\HtmlRichTextBoxTest.pdb
