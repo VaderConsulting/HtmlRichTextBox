@@ -34,3 +34,8 @@ Adds direct Win32 interop to the standard `RichTextBox`, giving full access to c
 |---------|-------------|
 | `HtmlRichTextBox` | Control library |
 | `HtmlRichTextBoxTest` | WinForms test harness |
+
+## Requirements
+
+- Visual Studio 2012, .NET Framework 2.0, .NET Framework 4.8
+
