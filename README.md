@@ -1,41 +1,28 @@
-﻿> **Attribution notice:** This code is not original work by VaderConsulting. It is believed to be a third-party control originally published on [CodeProject](https://www.codeproject.com) circa 2005. The original author has not been confirmed. See [LICENSE](LICENSE) for details.
-
-**Source last updated:** 2020-04-22
-
 # HtmlRichTextBox
 
-A Windows Forms `RichTextBox` control exposing fine-grained rich-text formatting via Win32 CHARFORMAT/PARAFORMAT structures and providing an `HtmlText` property for reading and writing HTML-formatted content.
+﻿> **Attribution notice:** This code is not original work by VaderConsulting. It is believed to be a third-party control originally published on [CodeProject](https://www.codeproject.com) circa 2005. The original author has not been confirmed. See [LICENSE](LICENSE) for details.
 
-**Initiated:** 2005-06-17 · **Framework:** .NET Framework 2.0 · **Solution:** `HtmlRichTextBox.sln`
+**Source last updated:** 2020-04-22 · **Language:** C# · **Target:** .NET Framework · **Output:** Library
 
-> Historical project - originally developed in June 2005 targeting .NET Framework 2.0.
+## Solution structure
 
----
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| HtmlRichTextBox | C# | Library | HTML-capable rich text box |
 
-## Overview
+## How to open
 
-Adds direct Win32 interop to the standard `RichTextBox`, giving full access to character formatting (font, size, bold, italic, underline, colour, super/subscript) and paragraph formatting (alignment, indentation, spacing, numbering), plus HTML import/export.
-
----
-
-## Features
-
-- **`BeginUpdate()` / `EndUpdate()`** - suppresses redraws for flicker-free bulk updates
-- **`CharFormat` / `DefaultCharFormat`** - get/set character format via Win32 CHARFORMAT2
-- **`ParaFormat` / `DefaultParaFormat`** - get/set paragraph format via Win32 PARAFORMAT
-- **`SetSuperScript(bool)` / `SetSubScript(bool)`** - superscript and subscript toggle
-- **`HtmlText`** - property to load/retrieve HTML content
-
----
-
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| `HtmlRichTextBox` | Control library |
-| `HtmlRichTextBoxTest` | WinForms test harness |
+Open the `.sln` in Visual Studio.
 
 ## Requirements
 
-- Visual Studio 2012, .NET Framework 2.0, .NET Framework 4.8
+- Visual Studio 2010 to 2017
 
+## Attribution and provenance
+
+Working copy from my Historical Dev folder `HtmlRichTextBox`.
+
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
